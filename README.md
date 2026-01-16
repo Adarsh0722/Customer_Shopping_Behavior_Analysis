@@ -2,6 +2,8 @@
 
 **End-to-End Data Analyst Project | Python • SQL • Dashboard • Business Insights**
 
+![Shopping_Behavior](https://github.com/Adarsh0722/Customer_Shopping_Behavior_Analysis/blob/main/Overview%20of%20Project.png)
+
 ---
 
 ## 🔍 Project Overview
@@ -45,6 +47,9 @@ This project addresses these challenges using structured data analysis and visua
 * Removed unnecessary columns
 * Reordered fields for logical data flow
 
+![Shopping_Behavior](https://github.com/Adarsh0722/Customer_Shopping_Behavior_Analysis/blob/main/Finding%20Null%20Values%20in%20Pandas%20Llibrary.png)
+
+
 ---
 
 ## 🧠 Feature Engineering
@@ -52,6 +57,8 @@ This project addresses these challenges using structured data analysis and visua
 * Created **Age_Group** column using age binning:
 * Converted categorical fields into analysis-ready formats
 * Created indicators for discount and promo code usage
+
+  ![Shopping_Behavior](https://github.com/Adarsh0722/Customer_Shopping_Behavior_Analysis/blob/main/Analysis%20in%20Pandas.png)
 
 ---
 
@@ -102,7 +109,7 @@ An interactive dashboard was built to visualize:
 
 ## 🧪 Skills Demonstrated
 
-* Data Cleaning & Wrangling
+* Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
 * SQL for Analytics
@@ -116,6 +123,4 @@ An interactive dashboard was built to visualize:
 ## 📫 Contact
 
 **Adarsh**
-Aspiring Data Analyst
-📧 Email: *(Heyadarshkumar@gmail.com)*
-🔗 LinkedIn: *()*
+(Aspiring Data Analyst)
